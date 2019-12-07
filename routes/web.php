@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+Route::get('/', 'IkiController@categories');
+Route::post('/post', 'IkiController@categoriesStore');
+Route::get('/arti', 'IkiController@articles');
