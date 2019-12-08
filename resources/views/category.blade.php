@@ -48,9 +48,7 @@
 
 
     <header class="header dark-bg">
-      <div class="toggle-nav">
-        <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"><i class="icon_menu"></i></div>
-      </div>
+      
 
       <!--logo start-->
       <a href="index.html" class="logo">lara <span class="lite">Hero</span></a>
@@ -72,32 +70,9 @@
             <a data-toggle="dropdown" class="dropdown-toggle" href="#">
                             
                             <span class="username">Jais</span>
-                            <b class="caret"></b>
+                            
                         </a>
-            <ul class="dropdown-menu extended logout">
-              <div class="log-arrow-up"></div>
-              <li class="eborder-top">
-                <a href="#"><i class="icon_profile"></i> My Profile</a>
-              </li>
-              <li>
-                <a href="#"><i class="icon_mail_alt"></i> My Inbox</a>
-              </li>
-              <li>
-                <a href="#"><i class="icon_clock_alt"></i> Timeline</a>
-              </li>
-              <li>
-                <a href="#"><i class="icon_chat_alt"></i> Chats</a>
-              </li>
-              <li>
-                <a href="login.html"><i class="icon_key_alt"></i> Log Out</a>
-              </li>
-              <li>
-                <a href="documentation.html"><i class="icon_key_alt"></i> Documentation</a>
-              </li>
-              <li>
-                <a href="documentation.html"><i class="icon_key_alt"></i> Documentation</a>
-              </li>
-            </ul>
+           
           </li>
           <!-- user login dropdown end -->
         </ul>
@@ -119,7 +94,7 @@
           <li class="sub-menu">
             <a href="javascript:;" class="">
                           <span>Articles</span>
-                          <span class="menu-arrow arrow_carrot-right"></span>
+                        
                       </a>
           </li>
           
@@ -141,12 +116,8 @@
           <div class="col-lg-9 col-md-12">
             <div class="panel panel-default">
               <div class="panel-heading">
-                <h2><i class="fa fa-flag-o red"></i><strong>Category Data</strong></h2>
-                <div class="panel-actions">
-                  <a href="index.html#" class="btn-setting"><i class="fa fa-rotate-right"></i></a>
-                  <a href="index.html#" class="btn-minimize"><i class="fa fa-chevron-up"></i></a>
-                  <a href="index.html#" class="btn-close"><i class="fa fa-times"></i></a>
-                </div>
+                <h2><strong>Category Data</strong></h2>
+                
               </div>
               <div class="panel-body">
                 <table class="table bootstrap-datatable countries">
@@ -171,17 +142,14 @@
           <!--/col-->
           
           </div>
-        </div><br><br>
+        </div>
 
         
           <div class="col-md-6 portlets">
             <div class="panel panel-default">
               <div class="panel-heading">
                 <div class="pull-left">Quick Post</div>
-                <div class="widget-icons pull-right">
-                  <a href="#" class="wminimize"><i class="fa fa-chevron-up"></i></a>
-                  <a href="#" class="wclose"><i class="fa fa-times"></i></a>
-                </div>
+
                 <div class="clearfix"></div>
               </div>
               <div class="panel-body">
