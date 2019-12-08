@@ -112,8 +112,8 @@
         <!-- sidebar menu start-->
         <ul class="sidebar-menu">
           <li class="active">
-            <a class="">
-                          <span>Article</span>
+            <a href="/">
+                          <span>Categories</span>
                       </a>
           </li>
           <li class="sub-menu">

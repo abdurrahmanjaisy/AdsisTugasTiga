@@ -92,7 +92,7 @@
                       </a>
           </li>
           <li class="sub-menu">
-            <a href="javascript:;" class="">
+            <a href="/arti" class="">
                           <span>Articles</span>
                         
                       </a>
